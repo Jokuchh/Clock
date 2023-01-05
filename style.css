@@ -12,7 +12,19 @@
 }
 
 body {
-  background: linear-gradient(45deg, #1870ed 0, #f18f88 100%);
+  /*background: linear-gradient(45deg, #1870ed 0, #f18f88 100%); */
+background-image: radial-gradient(circle at 50% -20.71%, #ffb63e 0, 
+                                  #ffbe30 4.55%, #ffc622 9.09%, 
+                                  #ffcd17 13.64%, #f1d412 18.18%, 
+                                  #dfda18 22.73%, #cbdf24 27.27%, 
+                                  #b6e433 31.82%, #a0e843 36.36%, 
+                                  #86ec54 40.91%, #68ef65 45.45%, 
+                                  #3cf278 50%, #00f48b 54.55%, 
+                                  #00f69f 59.09%, #00f7b4 63.64%, 
+                                  #00f8c8 68.18%, #00f9dd 72.73%, 
+                                  #00f9f1 77.27%, #00f9ff 81.82%, 
+                                  #00f9ff 86.36%, #00f8ff 90.91%, 
+                                  #00f6ff 95.45%, #00f4ff 100%);
   font-family: "Montserrat", "sans-serif";
   min-height: 100vh;
   display: flex;
